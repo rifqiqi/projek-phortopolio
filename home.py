@@ -61,7 +61,7 @@ with col2:
     st.image("facebook.jpeg", width= 50)
 with col3:
     
-    st.image("instagram.jpeg", width= 50)
+    st.image("Instagram.jpeg", width= 50)
 with col4:
     
     st.image("blog.jpeg", width= 50)
